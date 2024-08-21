@@ -4,12 +4,12 @@
 - Builder
 
 ### **Structural Patterns**
-- Decorator Pattern
-- Adapter Pattern
-- Facade Pattern
+- Decorator
+- Adapter
+- Facade
 - Proxy
 
 ### **Behavioral Patterns**
-- Strategy Pattern
-- Observer Pattern
-- Chain of Responsibility Pattern
+- Strategy
+- Observer
+- Chain of Responsibility
