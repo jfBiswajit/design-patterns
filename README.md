@@ -10,6 +10,7 @@
 - Proxy
 
 ### **Behavioral Patterns**
+- Repository
 - Strategy
 - Observer
-- Chain of Responsibility
+- Service
